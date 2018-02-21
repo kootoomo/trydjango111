@@ -1,0 +1,292 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_following"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"De",
+				"DetailView"
+			],
+			[
+				"Detail",
+				"ProfileDetailView"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"kwag",
+				"kwargs"
+			],
+			[
+				"I",
+				"ItemForm"
+			],
+			[
+				"Resta",
+				"RestaurantCreateView"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"randm",
+				"random_string_generator"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"category__i",
+				"category__iexact"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/models.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/views.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/urls.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/utils.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/settings/base.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/registration/register.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/forms.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/templates/profiles/register.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/templates/menus/home-feed.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/views.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/snippets/nav.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/templates/menus/item_list.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/templates/profiles/snippet/follow_form.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/templates/profiles/user.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/urls.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/admin.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/profiles/shell_commands.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/admin.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/models.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/validators.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/models.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/templates/menus/detail-update.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/urls.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/forms.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/templates/restaurants/detail-update.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/views.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/urls.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/snippets/form-snippet.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/form.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/templates/restaurants/restaurantlocation_list.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/forms.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/templates/restaurants/form.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/templates/menus/item_detail.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/menus/admin.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/registration/login.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/templates/restaurants/restaurantlocation_detail.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/restaurants/utils.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/base.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/contact.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/about.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/home.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/snippets/sidebar.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/snippets/js.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/templates/snippets/css.html",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/settings/__init__.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/settings/production.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/old_settings.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/settings/local.py",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/settings/111",
+		"/C/Users/kootoomo/Desktop/trydjango1-11/muypicky/settings.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			"C:\\Users\\kootoomo\\Desktop\\trydjango1-11"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"resta",
+			"restaurant-detail",
+			"name",
+			"USER",
+			"AUTH_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "muypicky-1.sublime-project",
+	"replace":
+	{
+		"height": 55.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 251.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
